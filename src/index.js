@@ -1,1 +1,1 @@
-console.log('sss')
+import './scss/index.scss'
